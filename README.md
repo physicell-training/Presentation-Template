@@ -20,11 +20,13 @@ None for this module.
 None for this module. 
 
 
-## Notes for template that woudl be removed
+## Notes for template that must be removed in the actual training module 
 1. Keep your powerpoint in the pptx_source directory 
 2. Create a PDF (PDF/A compliant) and put into root directory 
 3. Create a new qr code (go to https://www.qrcode-monkey.com/) 
-   1. dfdf
-3. Make sure to fix hyperlinks on title page 
+  a. Put the URL of the github repo in the "Your URL" field
+  b. Use the ./qr_code/PhysiCell-colorful-smaller.png image in the "Add logo image" field 
+  c. Click "Download PNG" and save to ./qr_code as qr-code-xx.png (where xx is the number of your training module)
+3. Make sure to fix hyperlinks on title page and include the correct QR code. 
 
 
