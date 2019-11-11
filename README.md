@@ -24,7 +24,7 @@ None for this module.
 1. Keep your powerpoint in the pptx_source directory 
 2. Create a PDF (PDF/A compliant) and put into root directory 
 3. Create a new qr code (go to https://www.qrcode-monkey.com/) 
-   a. 
+   1. dfdf
 3. Make sure to fix hyperlinks on title page 
 
 
